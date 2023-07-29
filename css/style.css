@@ -31,7 +31,7 @@ a{
     font-weight: 400px;
 }
 
-.memu-bar{
+.menu-bar{
     text-align: center;
     padding-top: 20px ;
 }
@@ -826,6 +826,13 @@ small{
     margin-bottom: 1px;
 }
 /* End section testimonial */
+.my services{
+        background-color: #171819;
+        padding: 70px 80px;
+        margin-top: -1px;
+    }
+
+
 .Contact{
     background-color: #171819;
     padding: 70px 80px;
