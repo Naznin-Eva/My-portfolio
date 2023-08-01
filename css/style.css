@@ -1248,6 +1248,9 @@ p{
     color: #333;
     font-size: 18px;
 }
+p span{
+    color: #bac964;
+}
 .social-icon a{
     background-color:#333;
     border-radius: 50%;
