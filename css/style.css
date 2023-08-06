@@ -9,10 +9,10 @@ html {
 
 body{
     font-family: 'Roboto', sans-serif;
-} 
+}
 a{
     text-decoration: none;
-}  
+}
 .banner-section{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/matheus-ferrero-pg_WCHWSdT8-unsplash\ 2.jpg);
     min-height:100vh;
@@ -597,8 +597,9 @@ a{
 }
 
 .about-col1 img{
-    width: 75%;
-    height: 350px;
+    width: 560px;
+    height: 602px;
+    object-fit: cover;
 }
 .btn1{
     background-color: #bac964;
@@ -1010,7 +1011,7 @@ small{
     box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.1);
     margin: 0px 0px 0px 6px;
 }
-    
+
 
 .Blog-on-Medium-col3{
     flex-basis: 25%;
@@ -1263,5 +1264,5 @@ p span{
     margin: 0px 10px;
     color: #bac964;
     font-size: 25px;
-    
+
 }
